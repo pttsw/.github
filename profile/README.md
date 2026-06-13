@@ -18,8 +18,7 @@
 
 ## 共库的流程
 共库的工作流程如下：
-
-待补充
+![共库流程图](共库流程图.png)
 
 ## 编辑共库
 在[共库编辑站](http://kiwee.top:11321/#/table/dashboard)（[http://kiwee.top:11321/#/table/dashboard](http://kiwee.top:11321/#/table/dashboard)）即可汉化数据，使用起来十分简单，只要会复制贴贴或打字即可。具体教程可见 dndwiki 的[共库编辑指南](https://dnd.huijiwiki.com/wiki/DND_%E4%B8%AD%E6%96%87%E5%85%B1%E5%BA%93)（[https://dnd.huijiwiki.com/wiki/DND_%E4%B8%AD%E6%96%87%E5%85%B1%E5%BA%93](https://dnd.huijiwiki.com/wiki/DND_%E4%B8%AD%E6%96%87%E5%85%B1%E5%BA%93)）
