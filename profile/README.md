@@ -10,7 +10,7 @@
 
 共库内容均为爱好者自发翻译整理，仅供学习、交流、参考使用，不用于任何商业用途。
 
-共库中出现的公司名称、商标、产品等版权归版权方所有，出自5e tools的内容使用[MIT许可](https://zh.wikipedia.org/zh-cn/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)，出自不全书的内容使用[gpl3许可](https://choosealicense.com/licenses/gpl-3.0/)。若无另外声明，其余内容采用[知识共享署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)授权，转载请注明译者与来源链接。
+共库中出现的公司名称、商标、产品等版权归版权方所有，出自5e tools英文源站的内容使用[MIT许可](https://zh.wikipedia.org/zh-cn/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)，出自不全书的内容使用[gpl3许可](https://choosealicense.com/licenses/gpl-3.0/)。若无另外声明，其余内容采用[知识共享署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)授权，转载请注明译者与来源链接。
 ## 为何使用[5etools源码](https://5e.tools/)作为数据库英文源码？
 
 - [5etools源码](https://github.com/5etools-mirror-3/5etools-src)完全开源，只要遵守[MIT](https://zh.wikipedia.org/zh-cn/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)协议皆可使用，且更新十分快速。
